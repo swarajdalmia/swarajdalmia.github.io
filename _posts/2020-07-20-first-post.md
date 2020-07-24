@@ -2,4 +2,4 @@
 layout: post
 ---
 
-First post coming soon.
+![coming soon](/assets/images/coming-soon.jpeg)

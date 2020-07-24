@@ -1,9 +1,9 @@
-title: Your awesome title
+title: Paper Cathedrals
 author:
   name: Swaraj Dalmia
-  email: swarajdalmia.bitspilani@gmail.com
+  # email: swarajdalmia.bitspilani@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Demistifying ML
+  I intend to blog about ML/DL concepts here so as make concepts more accessible. For the lack of another blog, this space will also carry the occasional muse.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

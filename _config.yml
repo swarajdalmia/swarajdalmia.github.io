@@ -3,7 +3,7 @@ author:
   name: Swaraj Dalmia
   # email: swarajdalmia.bitspilani@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  I intend to blog about ML/DL concepts here so as make concepts more accessible. For the lack of another blog, this space will also carry the occasional muse.
+  I intend to blog about ML/DL concepts here so as make them more accessible. This space will also carry the occasional muse.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,6 +16,7 @@ minima:
   social_links:
     #twitter: jekyllrb
     github:  swarajdalmia
+    goodreads: swarajdalmia
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll

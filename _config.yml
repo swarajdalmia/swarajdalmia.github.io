@@ -5,7 +5,7 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   I intend to blog about ML/DL concepts here so as make them more accessible. This space will also carry the occasional muse.
 
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: flase # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this

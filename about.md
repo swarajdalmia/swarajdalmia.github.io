@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I intend to blog about ML/DL concepts here so as make concepts more accessible. For the lack of another blog, this space will also carry the occasional muse. 
+At the moment i don't have as much to say about myself. The blog is supposed to be sufficient in itself. 
